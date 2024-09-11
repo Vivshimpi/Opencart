@@ -1,0 +1,21 @@
+17:06:48.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\MyWorkspace\opencartV01\master.xml
+
+17:06:56.451 [main] INFO  testCase.TC003_VerifyLoginDDT - ***** Staring TC003_verifyLoginDDT ******
+17:06:59.559 [main] INFO  testCase.TC003_VerifyLoginDDT - clicked on Myacc
+17:07:00.134 [main] INFO  testCase.TC003_VerifyLoginDDT - clicked on login
+17:07:01.538 [main] INFO  testCase.TC003_VerifyLoginDDT - Set credentials and click login btn
+17:07:01.633 [main] INFO  testCase.TC003_VerifyLoginDDT - verify MyAccount text
+17:07:02.186 [main] INFO  testCase.TC003_VerifyLoginDDT - ***** finished TC003_verifyLoginDDT ******
+17:07:02.204 [main] INFO  testCase.TC003_VerifyLoginDDT - ***** Staring TC003_verifyLoginDDT ******
+17:07:05.272 [main] INFO  testCase.TC003_VerifyLoginDDT - clicked on Myacc
+17:07:05.756 [main] INFO  testCase.TC003_VerifyLoginDDT - clicked on login
+17:07:06.953 [main] INFO  testCase.TC003_VerifyLoginDDT - Set credentials and click login btn
+17:07:37.039 [main] INFO  testCase.TC003_VerifyLoginDDT - verify MyAccount text
+17:07:37.039 [main] INFO  testCase.TC003_VerifyLoginDDT - ***** finished TC003_verifyLoginDDT ******
+17:07:37.045 [main] INFO  testCase.TC003_VerifyLoginDDT - ***** Staring TC003_verifyLoginDDT ******
+17:07:40.087 [main] INFO  testCase.TC003_VerifyLoginDDT - clicked on Myacc
+17:07:40.481 [main] INFO  testCase.TC003_VerifyLoginDDT - clicked on login
+17:07:41.651 [main] INFO  testCase.TC003_VerifyLoginDDT - Set credentials and click login btn
+17:07:41.737 [main] INFO  testCase.TC003_VerifyLoginDDT - verify MyAccount text
+17:07:42.205 [main] INFO  testCase.TC003_VerifyLoginDDT - ***** finished TC003_verifyLoginDDT ******
